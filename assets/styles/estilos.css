@@ -1,0 +1,15 @@
+.fondomenu{
+    background-color: #F4EAFE;
+}
+
+.fondosilueta{
+    background-image: url("../img/fondo.jpg");
+    padding: 5%;
+}
+
+.fuente{
+    font-family: "Comic Neue", cursive;
+    font-weight: 300;
+    font-style: italic;
+}
+    
