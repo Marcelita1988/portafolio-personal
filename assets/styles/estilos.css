@@ -12,4 +12,15 @@
     font-weight: 300;
     font-style: italic;
 }
+
+a{
+    text-decoration: none;
+}
+.fondo{
+    background-color: blueviolet;
+}
+
+.fondoboton{
+    background-color: plum;
+}
     
